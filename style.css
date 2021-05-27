@@ -17,7 +17,7 @@
         color: #bba310;
     }
     .head p {
-        color: #ffffff;
+        color: #e4d4d4;
     }
     span {
         color: black;
@@ -27,8 +27,7 @@
         height: 100px;
         margin-left: 0px;
         padding: 10px 20px 10px 20px;
-        /* vertical-align: top; */
-       /*  display: inline block; */
+        display: -ms-inline-grid;
     }
     .head-right {
         width: 300px;
